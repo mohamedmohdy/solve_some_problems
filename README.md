@@ -1,2 +1,2 @@
 # mohmed-mohdy
-تعلم لغة الويب 
+I study programming basics and solve a lot of problems
